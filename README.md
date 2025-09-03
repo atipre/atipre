@@ -8,7 +8,7 @@
       • Junior Computer Engineering Student @ Purdue, experience with Backend + AI | Aspiring Software engineer
     </td>
     <td width="30%">
-      <img src="https://github-profile-trophy.vercel.app/?username=atipre&theme=radical&title=Commit&column=1&margin-w=15&margin-h=15" />
+      <img src="https://github-profile-trophy.vercel.app/?username=atipre&theme=radical&title=Commit,Experience&column=2&margin-w=15&margin-h=15" />
     </td>
   </tr>
 </table>
