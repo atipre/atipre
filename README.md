@@ -70,7 +70,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=atipre&theme=radical" width="100%" />
+      <img src="https://streak-stats.demolab.com/?user=atipre&theme=radical" width="100%" />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atipre&theme=radical&layout=compact" width="100%" />
