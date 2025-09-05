@@ -1,4 +1,5 @@
 
+  
 <h3 style="font-size: 2em;">🤙🏽 Whats up, I'm Aditya</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -78,7 +79,7 @@
   </tr>
 </table>
 
-[![atipre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atipre&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![atipre's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=atipre&theme=rogue)](https://github.com/atipre/github-readme-activity-graph)
 
 
 <!--
