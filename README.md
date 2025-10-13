@@ -1,5 +1,5 @@
 
-<h3 style="font-size: 2em;">🤙🏽 Whats up, I'm Aditya</h3>
+<h3 style="font-size: 2.5em;">🤙🏽 Whats up, I'm Aditya</h3>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAj/divider.gif" width="100%" />
 
 <table>
@@ -24,7 +24,7 @@
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
-<h3 style="font-size: 2em;"> 🌐 Contact</h3>
+<h3 style="font-size: 2.5em;"> 🌐 Contact</h3>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAj/divider.gif" width="100%" />
 
 <div align="left">
@@ -38,7 +38,7 @@
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
-<h3 style="font-size: 2em;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h3>
+<h3 style="font-size: 2.5em;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h3>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAj/divider.gif" width="100%" />
 
 <div align="left">
