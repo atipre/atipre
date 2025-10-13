@@ -1,20 +1,6 @@
 
 <h3 style="font-size: 2em;">🤙🏽 Whats up, I'm Aditya</h3>
-<svg width="100%" height="5">
-  <rect width="100%" height="5" fill="#DC143C"/>
-  <rect width="100%" height="5" fill="url(#shine1)"/>
-  <defs>
-    <linearGradient id="shine1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="40%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#ff9999;stop-opacity:0.8" />
-      <stop offset="60%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="100%" style="stop-color:transparent;stop-opacity:0" />
-      <animate attributeName="x1" values="-100%;200%" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;300%" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-</svg>
+<img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/30.gif" width="100%" />
 
 <table>
   <tr>
@@ -39,21 +25,7 @@
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 <h3 style="font-size: 2em;"> 🌐 Contact</h3>
-<svg width="100%" height="5">
-  <rect width="100%" height="5" fill="#DC143C"/>
-  <rect width="100%" height="5" fill="url(#shine2)"/>
-  <defs>
-    <linearGradient id="shine2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="40%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#ff9999;stop-opacity:0.8" />
-      <stop offset="60%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="100%" style="stop-color:transparent;stop-opacity:0" />
-      <animate attributeName="x1" values="-100%;200%" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;300%" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-</svg>
+<img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/30.gif" width="100%" />
 
 <div align="left">
   <a href="mailto:tipreaditya@gmail.com">
@@ -67,84 +39,56 @@
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 <h3 style="font-size: 2em;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h3>
-<svg width="100%" height="5">
-  <rect width="100%" height="5" fill="#DC143C"/>
-  <rect width="100%" height="5" fill="url(#shine3)"/>
-  <defs>
-    <linearGradient id="shine3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="40%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#ff9999;stop-opacity:0.8" />
-      <stop offset="60%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="100%" style="stop-color:transparent;stop-opacity:0" />
-      <animate attributeName="x1" values="-100%;200%" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;300%" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-</svg>
+<img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/30.gif" width="100%" />
 
 <div align="left">
 
 ###### Languages & Syntax:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
+<img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java">
+<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
 
 ###### Frontend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3">
 
 ###### Backend:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: white; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js">
+<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express">
+<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI">
 
 ###### Databases:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="redis-logo-svgrepo-com.svg" alt="Redis" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB">
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase">
+<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis">
 
 ###### Development Tools:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square" alt="Vite">
 
 ###### Deployment & Hosting:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: white; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.simpleicons.org/render" alt="Render" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker">
+<img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws&logoColor=white&style=flat-square" alt="AWS">
+<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel">
+<img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat-square" alt="Render">
 
 ###### Webscraping/Browser Automation:
-<img src="Playwrite.svg" alt="Playwright" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: #2b2b2b; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" alt="Playwright">
 
 ###### LLMs\Providers:
-<img src="openai.svg" alt="OpenAI" width="40" height="40" style="vertical-align:top; margin:6px 4px; color: white; background-color: #10a37f; padding: 5px; border-radius: 5px;">
-<img src="claude-color.svg" alt="Claude" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: white; padding: 5px; border-radius: 5px;">
-<img src="https://cdn.simpleicons.org/ollama" alt="Ollama" width="40" height="40" style="vertical-align:top; margin:6px 4px; background-color: white; padding: 5px; border-radius: 5px;">
-<img src="groq-text.svg" alt="Groq" width="40" height="40" style="vertical-align:top; margin:6px 4px; color: white; background-color: #f55036; padding: 5px; border-radius: 5px;">
+<img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
+<img src="https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
+<img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square" alt="Ollama">
+<img src="https://img.shields.io/badge/-Groq-F55036?logo=&logoColor=white&style=flat-square" alt="Groq">
 
 </div>
 
-<svg width="100%" height="5">
-  <rect width="100%" height="5" fill="#DC143C"/>
-  <rect width="100%" height="5" fill="url(#shine4)"/>
-  <defs>
-    <linearGradient id="shine4" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="40%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="50%" style="stop-color:#ff9999;stop-opacity:0.8" />
-      <stop offset="60%" style="stop-color:transparent;stop-opacity:0" />
-      <stop offset="100%" style="stop-color:transparent;stop-opacity:0" />
-      <animate attributeName="x1" values="-100%;200%" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0%;300%" dur="3s" repeatCount="indefinite"/>
-    </linearGradient>
-  </defs>
-</svg>
+<img src="https://steemitimages.com/DQmUbNdwwHqkEp2AfL9XQhTUkicHT4s8qGfqHeAvtBvGcAx/30.gif" width="100%" />
 
 
 <picture>
