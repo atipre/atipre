@@ -1,5 +1,5 @@
 
-<h2 style="margin: 0; padding: 0; border: none;">🤙🏽 Whats up, I'm Aditya</h2>
+<h2 style="margin: 0; padding: 0; border-bottom: none;">🤙🏽 Whats up, I'm Aditya</h2>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
 
 <table>
@@ -24,7 +24,7 @@
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
-<h2 style="margin: 0; padding: 0; border: none;">🌐 Contact</h2>
+<h2 style="margin: 0; padding: 0; border-bottom: none;">🌐 Contact</h2>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
 
 <div align="left">
@@ -38,7 +38,7 @@
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
-<h2 style="margin: 0; padding: 0; border: none;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h2>
+<h2 style="margin: 0; padding: 0; border-bottom: none;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h2>
 <img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
 
 <div align="left">
