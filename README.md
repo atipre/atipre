@@ -1,32 +1,18 @@
 
-<h2 style="margin: 0; padding: 0; border-bottom: none;">🤙🏽 Whats up, I'm Aditya</h2>
-<img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
+# 🤙🏽 Whats up, I'm Aditya
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=atipre&theme=maroongold" width="100%" />
-    </td>
-    <td width="25%">
-      <img src="https://github-profile-trophy.vercel.app/?username=atipre&theme=monokai&title=Commit&column=1&margin-w=15&margin-h=15" width="100%"/>
-    </td>
-    <td width="25%">
-      <img src="https://github-profile-trophy.vercel.app/?username=atipre&theme=monokai&title=Experience&column=1&margin-w=15&margin-h=15" width="100%"/>
-    </td>
-  </tr>
-</table>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/26ef3a2f7f75ae07edd15c03869dca76f4712fad3e98660ab5cd53b9e5524079/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f757074696d652d3130302532352d627269676874677265656e" alt="Uptime: 100%">
-  <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome">
-  <img src="https://img.shields.io/badge/daily%20_tests-failing-red" alt="Daily Tests Failing">
+
+![Static Badge](https://img.shields.io/badge/Uptime-100%25-228b22) ![Static Badge](https://img.shields.io/badge/Contrivutions_Welcome-100%25-228b22) ![Static Badge](https://img.shields.io/badge/daily_tests-failing-cc0000)
+
 </div>
+
+
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
-<h2 style="margin: 0; padding: 0; border-bottom: none;">🌐 Contact</h2>
-<img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
-
+# 🌐 Contact
 <div align="left">
   <a href="mailto:tipreaditya@gmail.com">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px">
@@ -39,21 +25,23 @@
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 <h2 style="margin: 0; padding: 0; border-bottom: none;"><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3JwNzQzcWwydXVmdXpsZjFvOG1zY2NycTZ0cWZuc2p2OXdkd3JyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="35" height="35" style="vertical-align: middle;"/> Skills</h2>
-<img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
+
+<hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 <div align="left">
 
 ###### Languages & Syntax:
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
 <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
 <img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java">
 <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
+
 
 ###### Frontend:
 <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3">
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS">
 
 ###### Backend:
 <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js">
@@ -75,10 +63,7 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker">
 <img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS">
 <img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel">
-<img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat-square" alt="Render">
-
-###### Webscraping/Browser Automation:
-<img src="https://img.shields.io/badge/-Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square" alt="Playwright">
+<img src="https://img.shields.io/badge/-Fly.io-8B5CF6?logo=fly.io&logoColor=white&style=flat-square" alt="Fly.io">
 
 ###### LLMs\Providers:
 <img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
@@ -86,10 +71,12 @@
 <img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square" alt="Ollama">
 <img src="https://img.shields.io/badge/-Groq-F55036?logo=groq&logoColor=white&style=flat-square" alt="Groq">
 
+###### Frameworks:
+<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat-square" alt="LangGraph">
+
 </div>
 
-<img src="https://media.tenor.com/k1Qtsnwf6OkAAAAi/divider.gif" width="100%" style="display: block; margin: 0; padding: 0;" />
-
+<hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atipre&theme=high-contrast" width="100%" alt="GitHub Activity Graph" />
 
