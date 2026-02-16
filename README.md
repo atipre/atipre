@@ -4,7 +4,7 @@
 
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Uptime-100%25-228b22) ![Static Badge](https://img.shields.io/badge/Contrivutions_Welcome-100%25-228b22) ![Static Badge](https://img.shields.io/badge/daily_tests-failing-cc0000)
+![Static Badge](https://img.shields.io/badge/Uptime-100%25-228b22) ![Static Badge](https://img.shields.io/badge/Contributions_Welcome-100%25-228b22) ![Static Badge](https://img.shields.io/badge/daily_tests-failing-cc0000)
 
 </div>
 
