@@ -1,10 +1,22 @@
 
 # 🤙🏽 Whats up, I'm Aditya
 
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/pranesh-2005/github-readme-stats-fast">
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=atipre&theme=maroongold" width="100%" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=atipre&layout=compact&theme=highcontrast" width="100%" />
+    </td>
+  </tr>
+</table>
 <div align="center">
 
-![Static Badge](https://img.shields.io/badge/Uptime-100%25-228b22) ![Static Badge](https://img.shields.io/badge/Contributions_Welcome-100%25-228b22) ![Static Badge](https://img.shields.io/badge/daily_tests-failing-cc0000)
+![Static Badge](https://img.shields.io/badge/Uptime-100%25-00A300) ![Static Badge](https://img.shields.io/badge/Contributions-Welcome-00A300) ![Static Badge](https://img.shields.io/badge/daily_tests-failing-D10000)
+
 
 </div>
 
@@ -13,14 +25,8 @@
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
 # 🌐 Contact
-<div align="left">
-  <a href="mailto:tipreaditya@gmail.com">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/gmail.svg" alt="Gmail" style="vertical-align:top; margin:6px 4px">
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-tipre/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/linkedin.svg" alt="LinkedIn" style="vertical-align:top; margin:6px 4px">
-  </a>
-</div>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tipreaditya@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/aditya-tipre/)
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
 
@@ -31,53 +37,50 @@
 <div align="left">
 
 ###### Languages & Syntax:
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript">
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python">
-<img src="https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat-square" alt="Java">
-<img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" alt="C++">
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 
 
 ###### Frontend:
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square" alt="React">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5">
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat-square" alt="Tailwind CSS">
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ###### Backend:
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="Node.js">
-<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat-square" alt="Express">
-<img src="https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square" alt="FastAPI">
+[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
 
 ###### Databases:
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB">
-<img src="https://img.shields.io/badge/-Supabase-3FCF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase">
-<img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis">
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)
+[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
+
 
 ###### Development Tools:
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git">
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
-<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat-square" alt="Vite">
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+
 
 ###### Deployment & Hosting:
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker">
-<img src="https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white&style=flat-square" alt="AWS">
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square" alt="Vercel">
-<img src="https://img.shields.io/badge/-Fly.io-8B5CF6?logo=fly.io&logoColor=white&style=flat-square" alt="Fly.io">
-
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+[![Fly.io](https://img.shields.io/badge/Fly.io-8636EA?logo=flydotio&logoColor=white)](#)
 ###### LLMs\Providers:
-<img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat-square" alt="OpenAI">
-<img src="https://img.shields.io/badge/-Claude-D97757?logo=anthropic&logoColor=white&style=flat-square" alt="Claude">
-<img src="https://img.shields.io/badge/-Ollama-000000?logo=ollama&logoColor=white&style=flat-square" alt="Ollama">
-<img src="https://img.shields.io/badge/-Groq-F55036?logo=groq&logoColor=white&style=flat-square" alt="Groq">
+[![OpenAI](https://custom-icon-badges.demolab.com/badge/OpenAI-412991?logo=openai&logoColor=white)](#)
+[![Anthropic](https://img.shields.io/badge/Anthropic-D97757?logo=claude&logoColor=fff)](#)
+[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)
+[![Groq](https://custom-icon-badges.demolab.com/badge/Groq-F55036?logo=groq&logoColor=white)](#)
 
 ###### Frameworks:
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white&style=flat-square" alt="LangGraph">
+[![LangGraph](https://img.shields.io/badge/LangGraph-1c3c3c.svg?logo=langgraph&logoColor=white)](#)
 
 </div>
 
-<hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
-
+<img src="https://media.tenor.com/LEmCbhNBA1AAAAAj/fire-aesthetic.gif" width="100%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atipre&theme=high-contrast" width="100%" alt="GitHub Activity Graph" />
 
 <hr style="border: none; height: 1px; background-color: #808080; margin: 20px 0;">
